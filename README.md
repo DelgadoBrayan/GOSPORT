@@ -49,24 +49,31 @@
 <h2>🚀 Tecnologías utilizadas</h2>
 <ul>
   <li><strong>Frontend</strong>: 
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Heroicons-0F172A?style=flat-square&logo=heroicons&logoColor=white" alt="Heroicons" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+    <img src="https://img.shields.io/badge/SweetAlert2-3083DC?style=flat-square&logo=SweetAlert2&logoColor=white" alt="SweetAlert2" />
   </li>
+  
   <li><strong>Backend</strong>: 
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/BcryptJS-35495E?style=flat-square&logo=bcrypt&logoColor=white" alt="BcryptJS" />
+    <img src="https://img.shields.io/badge/Cookies-4A90E2?style=flat-square&logo=javascript&logoColor=white" alt="Cookies" />
   </li>
-  <li><strong>Base de datos</strong>: 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </li>
+  
   <li><strong>Gráficos</strong>: 
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
+    <img src="https://img.shields.io/badge/ApexCharts-FF4560?style=flat-square&logo=apexcharts&logoColor=white" alt="ApexCharts" />
   </li>
+  
   <li><strong>Autenticación</strong>: 
-    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+    <img src="https://img.shields.io/badge/JsonWebToken-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
   </li>
 </ul>
+
 
 <hr>
 
